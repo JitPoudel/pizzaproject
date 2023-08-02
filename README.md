@@ -6,8 +6,7 @@
 
 
 ## Github Username  |  Student Name
-* @jack-perish | Jack Perish
-* @GabePhillips | Gabe Phillips
+
 * @JitPoudel | Jit Poudel
 
 Firebase Install Instructiions:
